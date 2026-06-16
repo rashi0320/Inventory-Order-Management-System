@@ -1,0 +1,36 @@
+{
+  "rewrites": [
+    {
+      "source": "/products/:path*",
+      "destination": "https://ethara-inventory-api.onrender.com/products/:path*"
+    },
+    {
+      "source": "/products",
+      "destination": "https://ethara-inventory-api.onrender.com/products"
+    },
+    {
+      "source": "/customers/:path*",
+      "destination": "https://ethara-inventory-api.onrender.com/customers/:path*"
+    },
+    {
+      "source": "/customers",
+      "destination": "https://ethara-inventory-api.onrender.com/customers"
+    },
+    {
+      "source": "/orders/:path*",
+      "destination": "https://ethara-inventory-api.onrender.com/orders/:path*"
+    },
+    {
+      "source": "/orders",
+      "destination": "https://ethara-inventory-api.onrender.com/orders"
+    },
+    {
+      "source": "/dashboard",
+      "destination": "https://ethara-inventory-api.onrender.com/dashboard"
+    },
+    {
+      "source": "/seed",
+      "destination": "https://ethara-inventory-api.onrender.com/seed"
+    }
+  ]
+}
