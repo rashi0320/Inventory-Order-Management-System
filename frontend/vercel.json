@@ -2,35 +2,35 @@
   "rewrites": [
     {
       "source": "/products/:path*",
-      "destination": "https://ethara-inventory-api.onrender.com/products/:path*"
+      "destination": "https://inventory-order-management-system-1-akyh.onrender.com/products/:path*"
     },
     {
       "source": "/products",
-      "destination": "https://ethara-inventory-api.onrender.com/products"
+      "destination": "https://inventory-order-management-system-1-akyh.onrender.com/products"
     },
     {
       "source": "/customers/:path*",
-      "destination": "https://ethara-inventory-api.onrender.com/customers/:path*"
+      "destination": "https://inventory-order-management-system-1-akyh.onrender.com/customers/:path*"
     },
     {
       "source": "/customers",
-      "destination": "https://ethara-inventory-api.onrender.com/customers"
+      "destination": "https://inventory-order-management-system-1-akyh.onrender.com/customers"
     },
     {
       "source": "/orders/:path*",
-      "destination": "https://ethara-inventory-api.onrender.com/orders/:path*"
+      "destination": "https://inventory-order-management-system-1-akyh.onrender.com/orders/:path*"
     },
     {
       "source": "/orders",
-      "destination": "https://ethara-inventory-api.onrender.com/orders"
+      "destination": "https://inventory-order-management-system-1-akyh.onrender.com/orders"
     },
     {
       "source": "/dashboard",
-      "destination": "https://ethara-inventory-api.onrender.com/dashboard"
+      "destination": "https://inventory-order-management-system-1-akyh.onrender.com/dashboard"
     },
     {
       "source": "/seed",
-      "destination": "https://ethara-inventory-api.onrender.com/seed"
+      "destination": "https://inventory-order-management-system-1-akyh.onrender.com/seed"
     }
   ]
 }
